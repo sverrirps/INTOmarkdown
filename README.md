@@ -12,7 +12,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Tad gekk vel ad setja upp linux hja okkur ollum. Vid notudum Oracle VM Virtualbox. Vid kusum ad nota tada eftir ad einn medlimur hopsins gat ekki tengst netinu i odru forriti.
 
-Arnars mynd: ![arnar](https://www.dropbox.com/s/swyzc2xv3tc62r8/20131016_140617.jpg)
+Arnars mynd: ![arnar](http://i.minus.com/ikJLZh99KGmVy.jpg)
 
 Eysteins mynd: https://www.dropbox.com/s/0g1i5ctuw056vso/20131017_230731.jpg
 
