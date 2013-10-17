@@ -10,7 +10,9 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 Tad gekk vel ad setja upp linux hja okkur ollum. Vid notudum Oracle VM Virtualbox. Vid kusum ad nota tada eftir ad einn medlimur hopsins gat ekki tengst netinu i odru forriti.
-  
+
+https://www.dropbox.com/s/swyzc2xv3tc62r8/20131016_140617.jpg
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
