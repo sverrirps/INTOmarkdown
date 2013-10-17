@@ -12,11 +12,11 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Tad gekk vel ad setja upp linux hja okkur ollum. Vid notudum Oracle VM Virtualbox. Vid kusum ad nota tada eftir ad einn medlimur hopsins gat ekki tengst netinu i odru forriti.
 
-Arnars mynd: ![arnar](http://i.minus.com/ikJLZh99KGmVy.jpg)
+Arnars mynd: ![arnar](http://img20.imageshack.us/img20/9602/70wl.jpg)
 
-Eysteins mynd: https://www.dropbox.com/s/0g1i5ctuw056vso/20131017_230731.jpg
+Eysteins mynd: ![eysteinn](http://img33.imageshack.us/img33/4747/vons.jpg)
 
-Sverrirs mynd: https://www.dropbox.com/s/biaz6ybbivd93r0/20131017_230832.jpg
+Sverrirs mynd: ![sverrir](http://img703.imageshack.us/img703/6148/3kbe.jpg)
 
 ## 2. Uppsetning á vim && git
 Gekk eins og i sogu.  Vid keyrdum skipaninar og tad tok um 2 minutur ad installast. 
