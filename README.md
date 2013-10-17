@@ -1,9 +1,11 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+<ul>
 -Arnar Kari Agustsson
 -Eysteinn Gunnlaugsson
 -Sverrir Pall Sverrirson
+</ul>
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
