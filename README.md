@@ -9,13 +9,17 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+
 Tad gekk vel ad setja upp linux hja okkur ollum. Vid notudum Oracle VM Virtualbox. Vid kusum ad nota tada eftir ad einn medlimur hopsins gat ekki tengst netinu i odru forriti.
 
-https://www.dropbox.com/s/swyzc2xv3tc62r8/20131016_140617.jpg
+Arnars mynd: https://www.dropbox.com/s/swyzc2xv3tc62r8/20131016_140617.jpg
+
+Eysteins mynd: https://www.dropbox.com/s/0g1i5ctuw056vso/20131017_230731.jpg
+
+Sverrirs mynd: https://www.dropbox.com/s/biaz6ybbivd93r0/20131017_230832.jpg
 
 ## 2. Uppsetning á vim && git
-
-Lýsið hvernig gekk að setja upp þessi tól.
+Gekk eins og i sogu.  Vid keyrdum skipaninar og tad tok um 2 minutur ad installast. 
 
 ## 3. Unnið með Git (1. hluti)
 
