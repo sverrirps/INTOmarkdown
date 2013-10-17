@@ -23,6 +23,8 @@ Gekk eins og i sogu.  Vid keyrdum skipaninar og tad tok um 2 minutur ad installa
 
 ## 3. Unnið með Git (1. hluti)
 
+Það gekk vel að vinna verkefnið, vorum í smá vandræðum með að committa eftir að einn hópmeðlimur var búinn að því, en við fundum út úr því. Stundum var erfitt að muna hvaða password átti að slá inn, hvort það var ubuntu passwordið, passwordið inná síðuna eða passwordið sem maður gerði fyrir verkefnið. Lentum í veseni með að búa til SSH key, þar skipanirnar virkuðu ekki þannig við þurftum að afrita beint upp úr skránni sjálfir.
+
 Tad gekk afallalaust fyrir sig ad forka NIM verkefnid og vid vorum enga stund af gera breytingar a skranni. Adal vesenid var ad vid turftum alltaf ad saekja nyjustuutgafu af forritinu eftir ad einhver medlimur hopsins breytti tvi
 https://github.com/sverrirps/INTOPrufa
 
