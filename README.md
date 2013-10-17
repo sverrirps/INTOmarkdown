@@ -29,19 +29,20 @@ https://github.com/sverrirps/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-VLC er með GNU GENERAL PUBLIC LICENSE (Version 2, June 1991)
+
+- VLC er með GNU GENERAL PUBLIC LICENSE (Version 2, June 1991)
 download linkur á source code: 
 VLC player http://www.videolan.org/vlc/download-sources.html 
 
-Codeblocks er með GNU General Public Licence version 3. 
+- Codeblocks er með GNU General Public Licence version 3. 
 download linkur á source code: 
 http://www.gnu.org/licenses/gpl-3.0.html
 
-Eclipse er með The Eclipse Public License
+- Eclipse er með The Eclipse Public License
 download linkur á source code: 
 Eclipse http://archive.eclipse.org/arch/ 
 
-Mozilla firefox er með Mozilla Public License (Version 2.0)
+- Mozilla firefox er með Mozilla Public License (Version 2.0)
 download linkur á source code: http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/25.0b8/source/
 
 
